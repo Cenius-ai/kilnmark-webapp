@@ -1,0 +1,3 @@
+# Kilnmark itself runs on the Python 3.9+ standard library alone.
+# The only project-level dependency is the test runner used by tests/.
+pytest>=8.0,<10
