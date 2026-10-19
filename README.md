@@ -101,7 +101,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Everything runs out of the box: a Full-stack app codebase (23 files). `install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. Top-level layout: `tests/`. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
+Everything runs out of the box: a Full-stack app codebase (13 files). `install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. Top-level layout: `tests/`. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
